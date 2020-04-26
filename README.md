@@ -34,31 +34,6 @@
 * Privacy Policy
 * Terms of Use
 
-## TODO
-### For UI/Backend Developers
-* Locale: 
-  - covid19 
-  - volunteer
-  - how it works (chưa có nội dung)
-  - Chỉnh ngôn ngữ lục địa
-  - Truyền context vào longitude,  latitude, ...
-  - Truyền context vào country card
-  - Xây DB của request
-* Font Lexend Giga
-  - các thanh input
-* Addition
-  - add thêm vào trang HomePage (làm trong Hackathon)
-* Deploy
-* Scroll to (0,0)
-* HOC to call hooks inside class 
-
-### For Other Developers
-* Viết how to use
-* Dịch how to use
-* Hoàn thành Business Plan
-* Làm video & chỉnh sửa video
-* Xem lại content page
-
 ## Marketing Media
 * Facebook
 * Instagram
