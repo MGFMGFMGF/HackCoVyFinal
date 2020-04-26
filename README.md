@@ -21,6 +21,12 @@
 ### Step 3: start development server
 * ```npm start``` or ```yarn start```
 
+## Documentation
+* [Covid 19 API](https://corona.lmao.ninja/v2/countries)
+* [MAPBOX](https://www.mapbox.com/)
+* [MATERIAL UI](https://material-ui.com/)
+* [NPM](https://www.npmjs.com/)
+
 ## Social Media
 * [Facebook](https://www.facebook.com/doctorally.project/)
 * [Instagram](https://www.instagram.com/doctorally.project/)
