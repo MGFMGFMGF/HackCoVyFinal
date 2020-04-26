@@ -2,10 +2,15 @@
 ## How to run 
 ### Step 1: clone or download the project
 * open terminal in Visual Studio Code or Windows Command Prompt
-* ```git clone git@github.com:LamNguyenAtCWRU/HackCoVy.git```
+* ```git clone git@github.com:MRSNOO/HackCoVyFinal.git```
 ### Step 2: install packages/hooks in terminal: 
 * ```npm install```
 * ```npm install react-router-dom```
+* ```npm install express```
+* ```npm install mongoose```
+* ```npm install cors```
+* ```npm install body-parser```
+* ```npm install dotenv```
 * ```npm install axios```
 * ```npm install mapbox-gl --save```
 * ```npm install @material-ui/core``` 
@@ -16,35 +21,10 @@
 ### Step 3: start development server
 * ```npm start``` or ```yarn start```
 
-## Documentation
-* [Covid 19 API](https://corona.lmao.ninja/v2/countries)
-* [MAPBOX](https://www.mapbox.com/)
-* [MATERIAL UI](https://material-ui.com/)
-* [NPM](https://www.npmjs.com/)
-* [PRIVACY POLICY GENERATOR](https://www.privacypolicygenerator.info/)
-* [TERMS OF USE GENERATOR](https://www.termsofusegenerator.net/)
-* [BACKEND FLOW](https://www.lucidchart.com/invitations/accept/266989db-b767-4300-afff-91cdef6bbff7)
-
-## Page done styling & context
-* Covid19 Data
-* Nearby Stores
-* Request Help
-* Contact Us
-* Feedbacks
-* Privacy Policy
-* Terms of Use
-
-## Marketing Media
-* Facebook
-* Instagram
-* Gmail
-* LinkedIn
-* YouTube
-
-## npm not in use
-* ```npm install video-react```
-* ```npm install google-map-react``` 
-* ```npm install --save @react-google-maps/api``` 
-* ```npm install --save google-maps-react``` 
-
+## Social Media
+* [Facebook](https://www.facebook.com/doctorally.project/)
+* [Instagram](https://www.instagram.com/doctorally.project/)
+* [LinkedIn](https://www.linkedin.com/company/doctorally/)
+* [YouTube](https://www.youtube.com/channel/UCEPxng7TWfybFYuXuLtjMEw)
+* Gmail: doctorally.project@gmail.com
 
